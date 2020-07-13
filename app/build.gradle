@@ -49,20 +49,20 @@ apply plugin: 'com.google.ar.sceneform.plugin'
 sceneform.asset('sampledata/table/Table_01.obj',
         'default',
         'sampledata/table/Table_01.sfa',
-        'src/main/assets/table.sfb')
+        'src/main/assets/table')
 
 sceneform.asset('sampledata/couch/model.obj',
         'default',
         'sampledata/couch/model.sfa',
-        'src/main/assets/couch.sfb')
+        'src/main/assets/couch')
 
 sceneform.asset('sampledata/chair/model.obj',
         'default',
         'sampledata/chair/model.sfa',
-        'src/main/assets/chair.sfb')
+        'src/main/assets/chair')
 
 
 sceneform.asset('sampledata/lamp/Standing_lamp_01.obj',
         'default',
         'sampledata/lamp/Standing_lamp_01.sfa',
-        'src/main/assets/lamp.sfb')
+        'src/main/assets/lamp')

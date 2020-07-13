@@ -37,7 +37,7 @@
     file: 'sampledata/table/Table_01.obj',
     name: 'Table_01',
     recenter: 'root',
-    scale: 0.0055409999999999999,
+    scale: 0.01,
   },
   version: '0.54:2',
 }
